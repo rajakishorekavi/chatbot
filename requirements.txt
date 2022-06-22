@@ -5,7 +5,7 @@ Jinja2==2.10
 MarkupSafe==1.0
 Werkzeug==0.14.1
 pandas==0.24.2
-numpy==1.16.2
+numpy==1.22.0
 requests==2.21.0
 spacy==2.1.8
 nltk==3.4
